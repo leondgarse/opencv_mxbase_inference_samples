@@ -1,0 +1,2 @@
+# opencv_mxbase_inference_samples
+opencv_mxbase_inference_samples
